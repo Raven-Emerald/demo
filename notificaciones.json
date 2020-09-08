@@ -1,0 +1,19 @@
+{
+  "notificacions": [
+    {
+      "mensaje": "Enviando alerta: Se detectó plaga en la zona 7, fila 2. Realizando acciones predeterminadas"
+    },
+    {
+      "mensaje": "Enviando alerta: Se ha finalizado el trabajo en curso en las zonas del cultivo afectadas: Zona 7, fila 2 "
+    },
+    {
+      "mensaje": "Enviando alerta: Realizando monitoreo diario 9/7/2020 06:00"
+    },
+    {
+      "mensaje": "Enviando alerta: El dron tiene la bateria al 20% de su capacidad total se recomienda realizar una recarga en el centro de mando "
+    },
+    {
+      "mensaje": "Enviando alerta: Se detectó plaga en las siguientes áreas Zona 7 Fila 3 <br> Zona 7 Fila 4 <br> Zona 7 Fila 5"
+    }
+  ]
+}
